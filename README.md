@@ -1,2 +1,3 @@
 # Minecraft-MK03
-1.6版本左右的launcher
+适配曾经的MC版本启动器
+现部分功能无法使用。
